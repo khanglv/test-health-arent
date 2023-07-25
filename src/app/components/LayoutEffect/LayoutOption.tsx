@@ -1,5 +1,5 @@
-import IconKnife from "@/assets/icons/Knife.png";
-import IconTrash from "@/assets/icons/Trash.png";
+import IconKnife from "@/assets/icons/knife.png";
+import IconTrash from "@/assets/icons/trash.png";
 import { Polygon } from "../Polygon";
 
 export const LayoutOption = () => {
